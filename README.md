@@ -24,7 +24,7 @@ Certifique-se de que você tenha as seguintes ferramentas instaladas em sua máq
    - **Password**: `1234`
 
 3. **Clonar o Repositório**  
-   Clone o repositório em sua máquina utilizando a [URL](https://github.com/liam-stori/Challenge.git.)
+   Clone o repositório em sua máquina utilizando a [URL](https://github.com/liam-stori/Challenge.git)
 
 4. **Ligar o Docker**  
    Certifique-se de que o Docker está em execução em sua máquina. Caso ainda não tenha iniciado o Docker, abra o aplicativo Docker Desktop (ou inicie o serviço Docker, se estiver usando Linux) e aguarde até que o Docker esteja pronto para uso.
